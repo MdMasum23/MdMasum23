@@ -28,7 +28,8 @@
 
 <p align="center">
   <a href="mailto:mdmasum67172019@gmail.com" target="_blank">
-    <img src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="40" alt="Email"/>
+    <a href="mailto:mdmasum67172019@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" alt="Gmail"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/masum2310/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
