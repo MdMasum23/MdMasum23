@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,tailwind,figma,react,mongodb,mysql,firebase,netlify,vscode,java,python" />
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" width="50" />
 </p>
 
 ---
