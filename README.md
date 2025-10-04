@@ -19,7 +19,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40">&nbsp;Technologies and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bootstrap,tailwind,figma,react,mongodb,mysql,firebase,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,bootstrap,tailwind,figma,react,mongodb,mysql,firebase,netlify,vscode,,java,python" />
 </p>
 
 ---
