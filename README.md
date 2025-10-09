@@ -47,11 +47,13 @@
 ## 📈 Monthly Contribution Stats
 
 <a href="https://github.com/MdMasum23">
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MdMasum23&theme=react-dark&radius=8&area=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MdMasum23&radius=8&area=true" />
   <img alt="activity-graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MdMasum23&radius=8&area=true" />
-</picture>
+</picture> -->
+  [![MdMasum23's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MdMasum23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </a>
 
 ---
