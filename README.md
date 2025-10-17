@@ -69,7 +69,7 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&langs_count=10&theme=blue-green&layout=compact&hide=html" />
   <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=arifulit&theme=dark" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app?user=MdMasum23&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 </p>
