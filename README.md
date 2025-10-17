@@ -65,7 +65,7 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="50"> GitHub Stats
 
 <p align="center">
-  <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdMasum23&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdMasum23&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&langs_count=10&theme=blue-green&layout=compact&hide=html" />
   <p align="center">
   <a href="https://git.io/streak-stats">
