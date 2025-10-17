@@ -41,9 +41,10 @@
   <a href="https://www.facebook.com/mohammad.masum.409107" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
   </a>&nbsp;
-  <a href="https://www.instagram.com/mohammad_masum_23/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-  </a>
+<a href="https://x.com/Masum368170" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="X (Twitter)" />
+</a>
+
 </p>
 
 ---
