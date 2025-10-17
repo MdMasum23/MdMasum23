@@ -1,7 +1,6 @@
 ![Mohammad Masum Alam](https://github.com/MdMasum23/MdMasum23/blob/main/masum_banner_image.png)
 
 </br>
-
 <h1 align="center">Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Mohammad Masum Alam</h1>
 
 <div align="center">
