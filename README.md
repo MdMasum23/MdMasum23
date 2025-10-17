@@ -67,17 +67,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdMasum23&show_icons=true&count_private=true&theme=dark&hide_border=false&rank_icon=github" alt="GitHub Stats" width="500"/>
   &nbsp;&nbsp;&nbsp; 
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23
-  &langs_count=10
-  &theme=dark
-  &layout=compact
-  &hide_border=false
-  &title_color=00FFFF
-  &text_color=FFFFFF
-  &bg_color=0D1117
-  &hide=html,css"
-/>
+<img alt="Top Languages" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&layout=compact&theme=dark&hide_border=false&title_color=58A6FF&text_color=FFFFFF&bg_color=0D1117&langs_count=10" />
+
   <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=MdMasum23&theme=dark" alt="GitHub Streak" />
