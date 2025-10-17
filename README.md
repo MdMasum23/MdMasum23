@@ -72,8 +72,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&la
 <!-- <img alt="Top Languages" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&layout=compact&theme=radical&hide=swift,c%23&langs_count=10" /> -->
 
-  <img alt="Top Languages" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&layout=compact&theme=radical&hide_border=swift,c%23&langs_count=10" />
+<img
+  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&layout=compact&theme=radical&hide=swift,c%23&hide_border=false&title_color=FF6E96&text_color=FFFFFF&bg_color=141321&langs_count=10"
+/>
+
   <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://nirzak-streak-stats.vercel.app?user=MdMasum23&theme=dark" alt="GitHub Streak" />
