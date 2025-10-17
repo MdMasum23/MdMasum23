@@ -67,7 +67,11 @@
 <p align="center">
   <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=MdMasum23&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMasum23&langs_count=10&theme=blue-green&layout=compact&hide=html" />
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=MdMasum23&theme=blue-green&hide_border=true" />
+  <p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=arifulit&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 </p>
 
 ---
